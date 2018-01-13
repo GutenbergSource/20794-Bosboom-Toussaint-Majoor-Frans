@@ -1,0 +1,26 @@
+
+.Opener, .Address, .Date, .Closer, .Signed
+{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.Opener, .Address
+{
+	margin-left: 20%;
+}
+
+.Date
+{
+    margin-left: 10%;
+}
+
+.Closer
+{
+	margin-left: 20%;
+}
+
+.Signed
+{
+	margin-left: 30%;
+}
